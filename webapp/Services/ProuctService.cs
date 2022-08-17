@@ -2,6 +2,7 @@
 using System.Data.SqlClient;
 using webapp.Models;
 
+//create a productService that will poplulate the list
 namespace webapp.Services
 {
     public class ProuctService

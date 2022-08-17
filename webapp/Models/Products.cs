@@ -1,6 +1,9 @@
 ﻿using System;
 namespace webapp.Models
 {
+
+    //create product object
+
     public class Product
     {
         public int ProductID { get; set; }
