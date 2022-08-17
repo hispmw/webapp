@@ -1,0 +1,13 @@
+/Users/amuyepa/Projects/webapp/webapp/obj/Release/net6.0/PubTmp/Out/webapp
+/Users/amuyepa/Projects/webapp/webapp/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/amuyepa/Projects/webapp/webapp/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/amuyepa/Projects/webapp/webapp/obj/Release/net6.0/PubTmp/Out/webapp.dll
+/Users/amuyepa/Projects/webapp/webapp/obj/Release/net6.0/PubTmp/Out/webapp.deps.json
+/Users/amuyepa/Projects/webapp/webapp/obj/Release/net6.0/PubTmp/Out/webapp.runtimeconfig.json
+/Users/amuyepa/Projects/webapp/webapp/obj/Release/net6.0/PubTmp/Out/webapp.pdb
+/Users/amuyepa/Projects/webapp/webapp/obj/Release/net6.0/PubTmp/Out/System.Data.SqlClient.dll
+/Users/amuyepa/Projects/webapp/webapp/obj/Release/net6.0/PubTmp/Out/runtimes/win-arm64/native/sni.dll
+/Users/amuyepa/Projects/webapp/webapp/obj/Release/net6.0/PubTmp/Out/runtimes/win-x64/native/sni.dll
+/Users/amuyepa/Projects/webapp/webapp/obj/Release/net6.0/PubTmp/Out/runtimes/win-x86/native/sni.dll
+/Users/amuyepa/Projects/webapp/webapp/obj/Release/net6.0/PubTmp/Out/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/amuyepa/Projects/webapp/webapp/obj/Release/net6.0/PubTmp/Out/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll

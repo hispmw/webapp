@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bp905/lgmsfuvdJJYGJ4IJAz9CP4TZFV3MFP9oYw0vHLImV6dsQIvA8g7VqzIMWB3l0yfYbfYKaflcdtsFSLsg==",
+  "success": true,
+  "projectFilePath": "/Users/amuyepa/Projects/webapp2/webapp/webapp.csproj",
+  "expectedPackageFiles": [
+    "/Users/amuyepa/.nuget/packages/carbon.data.protection/1.5.0/carbon.data.protection.1.5.0.nupkg.sha512",
+    "/Users/amuyepa/.nuget/packages/carbon.packaging/1.50.0/carbon.packaging.1.50.0.nupkg.sha512",
+    "/Users/amuyepa/.nuget/packages/carbon.storage/3.0.1/carbon.storage.3.0.1.nupkg.sha512",
+    "/Users/amuyepa/.nuget/packages/carbon.versioncontrol/2.6.0/carbon.versioncontrol.2.6.0.nupkg.sha512",
+    "/Users/amuyepa/.nuget/packages/carbon.versioning/2.0.1/carbon.versioning.2.0.1.nupkg.sha512",
+    "/Users/amuyepa/.nuget/packages/github/1.34.0/github.1.34.0.nupkg.sha512",
+    "/Users/amuyepa/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/amuyepa/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "/Users/amuyepa/.nuget/packages/runtime.native.system.data.sqlclient.sni/4.7.0/runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "/Users/amuyepa/.nuget/packages/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/amuyepa/.nuget/packages/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/amuyepa/.nuget/packages/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/amuyepa/.nuget/packages/system.data.sqlclient/4.8.3/system.data.sqlclient.4.8.3.nupkg.sha512",
+    "/Users/amuyepa/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/Users/amuyepa/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
